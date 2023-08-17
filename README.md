@@ -4,3 +4,5 @@ Urban resilience is the capability of a city to survive, adapt and thrive in chr
 Rockefeller foundation conducted city resilience research on selected 100 different cities worldwide. The foundation reserached, and provided resilience strategy to overcome city's socioeconomic and different stresses the city encounters. This project looks into key resilience metric defining the universal metric that define the cities using techniques such as Spacy, NLTK, TF-IDF, etc. 
 
 This is a project I'm working with Pacific Northwest National Laboratory company based in Seattle.
+
+Details about the project are explained further in Notebook (Urban Resilience Metric Individual City Analysis)
