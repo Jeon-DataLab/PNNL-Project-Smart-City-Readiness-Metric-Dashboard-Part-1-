@@ -6,3 +6,5 @@ Rockefeller foundation conducted city resilience research on selected 100 differ
 This is a project I'm working with Pacific Northwest National Laboratory company based in Seattle.
 
 Some files are not available to upload due to file size. Please reference the following link for all the files: https://drive.google.com/drive/folders/1cL1prslgEbQC2B8_VwWghpjkIU8Sfjwp?usp=drive_link Details about the project are explained further in Notebooks.
+
+The resulting dashboard is the attached, Resiliency Dashboard Tableau.
