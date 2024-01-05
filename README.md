@@ -7,4 +7,5 @@ This is a project I've worked with Pacific Northwest National Laboratory company
 
 Some files are not available to upload due to file size. Please reference the following link for all the files: https://drive.google.com/drive/folders/1cL1prslgEbQC2B8_VwWghpjkIU8Sfjwp?usp=drive_link Details about the project are explained further in Notebooks.
 
-The resulting dashboard is the attached, Resiliency Dashboard Tableau file.
+The resulting dashboard is the attached, Resiliency Dashboard Tableau file also separately, the dashboard are snipped and uploaded as a file.
+
