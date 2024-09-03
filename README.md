@@ -12,3 +12,5 @@ Some files are not available on the github due to restraints. Please reference t
 
 The resulting interactive dashboard is attached; Resiliency Dashboard Tableau file also separately. The dashboard results are snipped and uploaded as a file.
 
+![Urban Resilience Dashboard Pic1](https://github.com/Jeon-DataLab/PNNL-Project-Smart-City-Readiness-Metric-Dashboard-Part-1-/blob/main/Urban%20Resilience%20Part%201.png)
+![Urban Resilience Dashboard Pic2](https://github.com/Jeon-DataLab/PNNL-Project-Smart-City-Readiness-Metric-Dashboard-Part-1-/blob/main/Urban%20Resilience%20Part%202.png)
