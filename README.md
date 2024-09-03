@@ -1,5 +1,5 @@
 # Urban-Resilience-Metric-Identification
-This is a project I've worked with Pacific Northwest National Laboratory as a partner with Northeastern University. 
+This is a project I've worked with Pacific Northwest National Laboratory. The project uses public data so it's safe to open to public avoiding conflict of interest.
 The project has been selected as top 10 projects to display in 100th year Northeastern University anniversity, presented to the president of Northeastern University.
 
 Rockefeller foundation conducted city resilience research on selected 100 different cities worldwide. The foundation provided resilience strategy to overcome city's socioeconomic and different stresses the city encounters. This project looks into key resilience metric defining the universal metric that measure the cities using techniques such as Spacy, NLTK, TF-IDF, etc. 
